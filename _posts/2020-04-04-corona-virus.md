@@ -12,4 +12,4 @@ The data was collected by Johns Hopkins University and covers the number of conf
 
 I used the data given to create visualizations of how the virus had been spreading during that time. The visualizations can be found in the original blog post, but the most notable one shows the spread of the virus over time including number of confirmed cases, active cases, recoveries, and deaths.
 
-![data](https://drive.google.com/open?id=1FBnEl8ZjMfQLDa1j56Que_7ItPK0lv0R)
+![data](https://drive.google.com/open?id=1FBnEl8ZjMfQLDa1j56Que_7ItPK0lv0R.jpg)
