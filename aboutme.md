@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: My Story
+# subtitle: My Story
 ---
 
 My name is Palmer Turley and I'm a data scientist! I am 24 years old and live in St. George, UT. I currently work at Orgill Inc. as a trainer in the order filling department. I use data in my day to day job to help improve the work environment for all employees in my department.
