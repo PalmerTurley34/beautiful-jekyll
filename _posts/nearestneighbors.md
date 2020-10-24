@@ -4,4 +4,5 @@ title: Nearest Neighbors
 subtitle: A simple visualization
 ---
 
-;oawenf;oaweriaruawGiaWEF;oijwef loasjdf;oawej f;awoefj a;owijf ;aweoifj a;woiejf ;awoeijf a;woeifj a;woeifj a;woeijf ;aowiejf;oaweijfijf;seorj gflawiufh awelifuh awliuefh alwieufh lawieufh lawiuehf laiwuehf laiwuehf liwuehf laiwuehfliuawehfliuawehfliuawehf luiwaehfliuwaef wef 
+I am trying my hardest to make this fucking blog post show up. There is literally nothing else that I can do. So glad the repo works properly when I follow the instructions
+exactly when I made this post. Thanks for nothing you fucking piece of shit.
