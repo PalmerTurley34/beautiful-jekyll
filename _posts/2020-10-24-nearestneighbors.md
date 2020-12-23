@@ -14,4 +14,4 @@ As well as a Medium blog post I wrote about the project, [here](https://palmertu
 
 I made several visulizations of how the algorithm works, calculating distances from the nearest data points to make predictions, such as the on below.
 
-
+![data plot](https://i.ibb.co/tYTJ0s1/newplot-13.jpg)
