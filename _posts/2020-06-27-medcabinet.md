@@ -2,7 +2,7 @@
 layout: post
 title: Med Cabinet
 subtitle: Medicinal Marijuana Recommendations
-bigimg: palmerturley34.github.io/img/newplot (15).png
+bigimg: img/newplot (15).png
 ---
 
 As a group project as part of the Lambda School curriculum, my group was tasked with creating a website to help people find recommendations for different strains of medical marijuana.
