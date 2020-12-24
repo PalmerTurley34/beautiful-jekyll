@@ -2,7 +2,7 @@
 layout: post
 title: Med Cabinet
 subtitle: Medicinal Marijuana Recommendations
-# bigimg: /img/path.jpg
+# bigimg: /img/newplot (15).png
 # tags: [books, test]
 ---
 
