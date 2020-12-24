@@ -2,7 +2,7 @@
 layout: post
 title: Med Cabinet
 subtitle: Medicinal Marijuana Recommendations
-bigimg: https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.health.harvard.edu%2Fstaying-healthy%2Fmedical-marijuana-know-the-facts&psig=AOvVaw16P1-dwVGfnxRpJ0aaUEfb&ust=1608912109811000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLDv__D-5u0CFQAAAAAdAAAAABAD
+bigimg: https://www.health.harvard.edu/media/content/images/p6_MedicalMarijuana_ML1710_ts483300738.jpg
 ---
 
 As a group project as part of the Lambda School curriculum, my group was tasked with creating a website to help people find recommendations for different strains of medical marijuana.
