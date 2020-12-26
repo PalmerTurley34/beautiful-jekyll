@@ -2,7 +2,7 @@
 layout: post
 title: Corona Virus
 subtitle: How bad is it really?
-# bigimg: /img/path.jpg
+bigimg: https://www.cdc.gov/media/dpk/diseases-and-conditions/coronavirus/images/outbreak-coronavirus-world-1024x506px.jpg
 # tags: [books, test]
 ---
 
